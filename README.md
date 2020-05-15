@@ -1,6 +1,6 @@
 # simple-restassured-api-test
 
-Pre-requisite:
+# Pre-requisite:
 
 1)Java
 
@@ -10,7 +10,7 @@ Pre-requisite:
 
 Most latest Eclipse downloads include the Maven tooling already.If not follow the below steps
 
-Steps to install in Eclipse:
+# Steps to install in Eclipse:
 
 Way 1: Maven Eclipse plugin installation step by step:
 
@@ -44,11 +44,11 @@ Go to Window --> Preferences
 
 Observe, Maven is enlisted at left panel
 
-Steps to install maven in the machine 
+# Steps to install maven in the machine 
 
 -https://mkyong.com/maven/how-to-install-maven-in-windows/
 
-Dependencies:
+# Dependencies:
 
 1)Restassured
 
