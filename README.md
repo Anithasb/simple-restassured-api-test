@@ -8,9 +8,7 @@ Pre-requisite:
 
 3)Maven(build tool)
 
-Steps to install maven in the machine 
-
--https://mkyong.com/maven/how-to-install-maven-in-windows/
+Most latest Eclipse downloads include the Maven tooling already.If not follow the below steps
 
 Steps to install in Eclipse:
 
@@ -46,7 +44,9 @@ Go to Window --> Preferences
 
 Observe, Maven is enlisted at left panel
 
+Steps to install maven in the machine 
 
+-https://mkyong.com/maven/how-to-install-maven-in-windows/
 
 Dependencies:
 
